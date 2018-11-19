@@ -2,7 +2,9 @@
 
 namespace App\Http\Resources;
 use App\Models\Session;
+// use Illuminate\Http\Resources\Json\Resource;
 use Illuminate\Http\Resources\Json\JsonResource;
+// use Illuminate\Http\Resources\Json\JsonResource;
 // use App\Http\Resources\SessionResources;
 
 class UserResource extends JsonResource
